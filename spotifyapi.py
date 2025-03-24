@@ -15,3 +15,6 @@ instance.login()
 
 instance.save(spotapi.MongoSaver())
 print("Logged in Successfully!")
+
+
+print("GitHub integrated")
